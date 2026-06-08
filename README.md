@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ate Bear Contact Benner](https://atebear.pages.dev/cards/ate-bear-blog-contact-card-banner.png)
+![Ate Bear Contact Benner](https://atebear.pages.dev/cards/ate-bear-blog-profile-card-boxed.png)
 
 ✨ Name:\
 ╰┈➤ˎˊ˗ [Ate Bear](https://github.com/atebear) 🧸
