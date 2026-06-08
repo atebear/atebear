@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ╰┈➤ˎˊ˗ [Ate Bear](https://github.com/atebear) 🧸
 
 📝 Blog:\
-╰┈➤ˎˊ˗ [ʕ•ᴥ•ʔ Ate Bear Blog](https://ate.bearblog.dev/notes)
+╰┈➤ˎˊ˗ [ʕ•ᴥ•ʔ Ate Bear Blog](https://atebear.pages.dev/notes)
 
 🌐 Website:\
-╰┈➤ˎˊ˗ [https://ate.bearblog.dev](https://ate.bearblog.dev)
+╰┈➤ˎˊ˗ [https://atebear.pages.dev](https://atebear.pages.dev)
 
 📧 Email:\
 ╰┈➤ˎˊ˗ [atebearblog@proton.me](mailto:atebearblog@proton.me)
